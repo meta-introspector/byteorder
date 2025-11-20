@@ -30,5 +30,5 @@ std = []
 # feature will be removed if and when a new major version is released.
 i128 = []
 
-[profile.bench]
-opt-level = 3
+# [profile.bench]
+# opt-level = 3
